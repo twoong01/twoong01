@@ -3,7 +3,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytung01)](https://solved.ac/ytung01)
-> 📭 Contact me : omygog@naver.com **or** ytaewoong01@gmail.com
+> 📭 **Contact** : omygog@naver.com **or** ytaewoong01@gmail.com
 ## 🛠️Tech Stack
 <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
 
