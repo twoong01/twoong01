@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
 
 ## 💻Career
-⁉️ 404 Not Found
+![img](404.jpg)
 ## 📚Education
 * 영남대학교 - 🤖로봇기계공학과 (2017.03 ~ 2023.02)
 * **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01.04 ~ )
 ## 📈GitHub Status
-⁉️ 404 Not Found
+![img](404.jpg)
