@@ -1,7 +1,7 @@
 # Hi! 👋
 🤑**개발자**🤑를 꿈꾸는 윤태웅입니다.
 
-📭 : omygog@naver.com **or** ytaewoong01@gmail.com
+> 📭 Contact me : omygog@naver.com **or** ytaewoong01@gmail.com
 ## 🛠️Tech Stack
 ⁉️ 404 Not Found
 ## 💻Career
