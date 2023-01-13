@@ -3,7 +3,8 @@
 
 > 📭 Contact me : omygog@naver.com **or** ytaewoong01@gmail.com
 ## 🛠️Tech Stack
-⁉️ 404 Not Found
+<img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
+
 ## 💻Career
 ⁉️ 404 Not Found
 ## 📚Education
