@@ -6,7 +6,7 @@
 > 📭 **Contact** : omygog@naver.com **or** ytaewoong01@gmail.com
 ## 🛠️Tech Stack
 <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-#61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 ## 💻Career
 ⁉️ **404 Not Found**
 ## 📚Education
